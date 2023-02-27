@@ -19,5 +19,5 @@ solidity
 # Testing
 To run the tests, execute truffle test in the project directory.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
